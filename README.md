@@ -1,19 +1,19 @@
-Olá, eu sou o Victor! 👋
-👨‍💻 Programador com foco em C# e desenvolvimento de sistemas
-Trabalho em projetos de desenvolvimento, especialmente em C# e Windows Forms, onde estou criando sistemas como uma biblioteca com cadastro de livros, navegação entre formulários e funcionalidades de login. Priorizo a organização dos dados e a consistência do banco de dados para que tudo funcione de maneira prática e eficiente.
+# Hi, I'm Victor! 👋
 
-💼 Interesses em IA e NLP
-Sou fascinado pelo potencial da inteligência artificial e do processamento de linguagem natural (NLP). Gosto de aprender sobre como vetores e modelos de linguagem são aplicados em IA e espero desenvolver, no futuro, aplicações que utilizem técnicas de busca semântica e IA generativa.
+👨‍💻 **Developer focused on C# and systems development**  
+I work on development projects, especially with C# and Windows Forms, where I'm building systems like a library with book registration, form navigation, and login functionalities. I prioritize data organization and database consistency to ensure everything runs efficiently.
 
-⚙️ Tecnologias que estudo:
+💼 **Interests in AI and NLP**  
+I'm fascinated by the potential of artificial intelligence and natural language processing (NLP). I enjoy learning about how vectors and language models are applied in AI, and I aim to develop applications that use semantic search techniques and generative AI in the future.
 
-C# e .NET para desenvolvimento de aplicações desktop
-SQL para gerenciamento e manipulação de banco de dados
-Python para processamento de dados e IA
-Inteligência Artificial e NLP, explorando as bases de machine learning e como aplicá-las em sistemas de recomendação e análise de sentimentos.
+⚙️ **Technologies I study:**  
+- **C# and .NET** for desktop application development
+- **SQL** for database management and manipulation
+- **Python** for data processing and AI
+- **Artificial Intelligence** and **NLP**, exploring machine learning foundations and applying them in recommendation systems and sentiment analysis
 
-🌐 Buscando Aperfeiçoamento Constante
-Trabalho de forma colaborativa e adaptável, aberto a novos desafios e sempre em busca de aprender. Valorizo a troca de conhecimento e a construção de projetos que impactem positivamente.
+🌐 **Constantly Seeking Improvement**  
+I work collaboratively and adaptably, open to new challenges and always eager to learn. I value knowledge exchange and building projects that have a positive impact.
 
-📫 Contato:
-Vamos nos conectar! Se você tem interesse em discutir sobre desenvolvimento, IA, música ou explorar novas ideias.
+📫 **Let's Connect:**  
+Feel free to reach out! If you're interested in discussing development, AI, music, or exploring new ideas.
