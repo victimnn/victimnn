@@ -1,19 +1,54 @@
-# Hi, I'm Victor! 👋
+<h2 align="left">Hi 👋! My name is Victor</h2>
 
-👨‍💻 **Developer focused on C# and systems development**  
-I work on development projects, especially with C# and Windows Forms, where I'm building systems like a library with book registration, form navigation, and login functionalities. I prioritize data organization and database consistency to ensure everything runs efficiently.
+###
 
-💼 **Interests in AI and NLP**  
-I'm fascinated by the potential of artificial intelligence and natural language processing (NLP). I enjoy learning about how vectors and language models are applied in AI, and I aim to develop applications that use semantic search techniques and generative AI in the future.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victimnn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victimnn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-⚙️ **Technologies I study:**  
-- **C# and .NET** for desktop application development
-- **SQL** for database management and manipulation
-- **Python** for data processing and AI
-- **Artificial Intelligence** and **NLP**, exploring machine learning foundations and applying them in recommendation systems and sentiment analysis
+###
 
-🌐 **Constantly Seeking Improvement**  
-I work collaboratively and adaptably, open to new challenges and always eager to learn. I value knowledge exchange and building projects that have a positive impact.
+<br clear="both">
 
-📫 **Let's Connect:**  
-Feel free to reach out! If you're interested in discussing development, AI, music, or exploring new ideas.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/victimnn/victimnn/output/snake.svg" alt="Snake animation" />
+
+###
