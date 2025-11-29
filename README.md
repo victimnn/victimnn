@@ -7,23 +7,23 @@
 
 ###
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/victimnn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victimnn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victimnn&layout=compact&langs_count=7&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victimnn&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api?username=victimnn&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
   </a>
-</div>
+</p>
 
 ###
 
 ## 👨‍💻 About Me
 
-I am a developer based in **Jaguariúna, Brazil**. I hold a **Technical Degree in Systems Development** (ETEC) and I'm an incoming **Information Systems** student at **PUC-Campinas**.
+I am a developer based in **Jaguariúna, Brazil**. [cite_start]I hold a **Technical Degree in Systems Development** from ETEC (Centro Paula Souza) [cite: 4, 16] [cite_start]and I am an incoming **Information Systems** student at **PUC-Campinas** (starting 2026)[cite: 19, 22].
 
-- 💼 **Professional:** Junior Developer at **Sistema RAM** (Desktop/Delphi) and Freelancer.
+- [cite_start]💼 **Professional Experience:** Currently working as a **Junior Developer at Sistema RAM** (focusing on Desktop/Delphi)[cite: 28, 29, 31]. [cite_start]I also have experience as a **Freelancer** developing web & mobile apps[cite: 34, 36].
 - 🔭 **Current Project:** Working on **BusHere!**, a passenger transport and logistics management software.
-- 🗣️ **Languages:** Native Portuguese, **English C1 (Advanced)**.
-- 📚 **Interests:** Geopolitics, History, Philosophy and Brazilian Literature (Machado de Assis).
+- [cite_start]🗣️ **Languages:** Native Portuguese, **English C1 (Advanced/Proficient)**[cite: 24].
+- 📚 **Interests:** Geopolitics, History, Philosophy, and Brazilian Literature (Machado de Assis).
 
 ###
 
@@ -31,14 +31,14 @@ I am a developer based in **Jaguariúna, Brazil**. I hold a **Technical Degree i
 
 <div align="center">
 
-  **Design & Prototyping**<br>
+  [cite_start]**Design & Prototyping** [cite: 38]<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
    
   <br><br>
 
-  **Frontend & Mobile**<br>
+  [cite_start]**Frontend & Mobile** [cite: 26]<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
@@ -53,7 +53,7 @@ I am a developer based in **Jaguariúna, Brazil**. I hold a **Technical Degree i
 
   <br><br>
 
-  **Backend, Legacy & Data**<br>
+  [cite_start]**Backend, Legacy & Data** [cite: 25, 26, 31]<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
