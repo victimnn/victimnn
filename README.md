@@ -9,8 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/victimnn">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victimnn&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="160" />
-    <img src="https://github-readme-stats.vercel.app/api?username=victimnn&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" height="160" />
+    ![Metrics](https://metrics.lecoq.io/victimnn?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
   </a>
 </p>
 
