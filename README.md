@@ -15,11 +15,12 @@
 
 ## 👨‍💻 About Me
 
-I am a developer based in **Jaguariúna, Brazil**, combining technical skills with a background in **Sistemas da Informação (PUC - Campinas)**. I am currently deepening my studies in **Economics**, looking to apply analytical rigor to software development.
+I am a developer based in **Jaguariúna, Brazil**. I hold a **Technical Degree in Systems Development** (ETEC) and I'm an incoming **Information Systems** student at **PUC-Campinas**.
 
-- 🔭 I’m currently working on **BusHere!**, a passenger transport and logistics management software.
-- 🌱 I have a strong interest in **Web Development (Node.js/JS)** and **Geopolitics**.
-- 📚 When I'm not coding, I'm reading Brazilian classics (big fan of Machado de Assis) or studying History and Philosofy.
+- 💼 **Professional:** Junior Developer at **Sistema RAM** (Desktop/Delphi) and Freelancer.
+- 🔭 **Current Project:** Working on **BusHere!**, a passenger transport and logistics management software.
+- 🗣️ **Languages:** Native Portuguese, **English C1 (Advanced)**.
+- 📚 **Interests:** Geopolitics, History, Philosophy and Brazilian Literature (Machado de Assis).
 
 ###
 
@@ -31,10 +32,10 @@ I am a developer based in **Jaguariúna, Brazil**, combining technical skills wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
-  
+   
   <br><br>
 
-  **Frontend**<br>
+  **Frontend & Mobile**<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
@@ -44,20 +45,30 @@ I am a developer based in **Jaguariúna, Brazil**, combining technical skills wi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
 
   <br><br>
 
-  **Backend & Data**<br>
+  **Backend, Legacy & Data**<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" height="30" alt="laravel badge" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo" />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Delphi-B22222?style=flat&logo=delphi&logoColor=white" height="30" alt="delphi badge" />
+  <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="sql server logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
+   
 </div>
 
 ###
@@ -70,5 +81,8 @@ I am a developer based in **Jaguariúna, Brazil**, combining technical skills wi
   </a>
   <a href="mailto:victor.ramosp19@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://dsetecjb.com.br/victor" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=kofi&label=&color=FF5E5B&logoColor=white&labelColor=&style=flat" height="35" alt="portfolio logo" />
   </a>
 </div>
