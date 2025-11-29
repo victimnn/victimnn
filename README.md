@@ -8,7 +8,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victimnn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <a href="https://github.com/victimnn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victimnn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victimnn&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 ###
