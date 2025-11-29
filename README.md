@@ -8,9 +8,7 @@
 ###
 
 <p align="center">
-  <a href="https://github.com/victimnn">
     ![Metrics](https://metrics.lecoq.io/victimnn?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=America%2FSao_Paulo)
-  </a>
 </p>
 
 ###
