@@ -14,11 +14,11 @@
 
 ## 👨‍💻 About Me
 
-I am a developer based in **Jaguariúna, Brazil**. [cite_start]I hold a **Technical Degree in Systems Development** from ETEC (Centro Paula Souza) [cite: 4, 16] [cite_start]and I am an incoming **Information Systems** student at **PUC-Campinas** (starting 2026)[cite: 19, 22].
+I am a developer based in **Jaguariúna, Brazil**. I hold a **Technical Degree in Systems Development** from ETEC (Centro Paula Souza) and I am an incoming **Information Systems** student at **PUC-Campinas** (starting 2026).
 
-- [cite_start]💼 **Professional Experience:** Currently working as a **Junior Developer at Sistema RAM** (focusing on Desktop/Delphi)[cite: 28, 29, 31]. [cite_start]I also have experience as a **Freelancer** developing web & mobile apps[cite: 34, 36].
+- 💼 **Professional Experience:** Currently working as a **Junior Developer at Sistema RAM** (focusing on Desktop/Delphi). I also have experience as a **Freelancer** developing web & mobile apps.
 - 🔭 **Current Project:** Working on **BusHere!**, a passenger transport and logistics management software.
-- [cite_start]🗣️ **Languages:** Native Portuguese, **English C1 (Advanced/Proficient)**[cite: 24].
+- 🗣️ **Languages:** Native Portuguese, **English C1 (Advanced/Proficient)**.
 - 📚 **Interests:** Geopolitics, History, Philosophy, and Brazilian Literature (Machado de Assis).
 
 ###
@@ -27,14 +27,14 @@ I am a developer based in **Jaguariúna, Brazil**. [cite_start]I hold a **Techni
 
 <div align="center">
 
-  [cite_start]**Design & Prototyping** [cite: 38]<br>
+  **Design & Prototyping**<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
    
   <br><br>
 
-  [cite_start]**Frontend & Mobile** [cite: 26]<br>
+  **Frontend & Mobile**<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
@@ -49,7 +49,7 @@ I am a developer based in **Jaguariúna, Brazil**. [cite_start]I hold a **Techni
 
   <br><br>
 
-  [cite_start]**Backend, Legacy & Data** [cite: 25, 26, 31]<br>
+  **Backend, Legacy & Data**<br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
